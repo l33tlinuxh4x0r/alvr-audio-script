@@ -7,7 +7,7 @@ ALVR Audio Script to get audio (sound and mic) working on a ALVR supported devic
 3. run `chmod a+x alvr-audio.sh`
 4. Open ALVR
 5. Go to Settings
-6. Set "On Connect Script" and "On Disconnect Script" both to the full path where the script is. ex. /home/l33tlinuxh4x0r/alvr-audio.sh (you may need to press "enter" after typing the path for settings to take effect.)
+6. Set "On connect script" and "On disconnect script" both to the full path where the script is. ex. /home/l33tlinuxh4x0r/alvr-audio.sh (you may need to press "enter" after typing the path for settings to take effect.)
 7. Start SteamVR via ALVR and enjoy!
 
 ALVR settings showing the script being setup correctly.
