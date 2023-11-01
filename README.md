@@ -2,7 +2,7 @@
 ALVR Audio Script to get audio (sound and mic) working on a ALVR supported device (meta quest).\
 Note: This script is for Linux and pipewire. It probably won't work on mac and does NOT work on Windows.
 
-# How to/Usage...
+# How To/Usage...
 1. Download script
 2. Put it in home directory
 3. run `chmod a+x ~/alvr-audio.sh`
