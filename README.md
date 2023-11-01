@@ -1,5 +1,6 @@
 # alvr-audio-script
 ALVR Audio Script to get audio (sound and mic) working on a ALVR supported device (meta quest).
+This script is for Linux and pipewire. It probably won't work on mac and does NOT work on Windows.
 
 # How to/Usage...
 1. Download script
