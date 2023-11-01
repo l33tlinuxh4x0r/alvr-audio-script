@@ -8,8 +8,8 @@ Note: This script is for Linux and pipewire. It probably won't work on mac and d
 3. run `chmod a+x ~/alvr-audio.sh`
 4. Open ALVR
 5. Go to Settings
-6. Set "On connect script" and "On disconnect script" both to the full path where the script is.
-   For example `/home/l33tlinuxh4x0r/alvr-audio.sh` (you may need to press "enter" after typing the path for settings to take effect.)
+6. Set "On connect script" and "On disconnect script" both to the full path where the script is.\
+   For example `/home/l33tlinuxh4x0r/alvr-audio.sh` (you may need to press "enter" after typing the path for settings to take effect.)\
    Note: You need the full path, wildcards and variables do NOT work.
 8. Start SteamVR via ALVR and enjoy!
 
